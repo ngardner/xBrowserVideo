@@ -6,7 +6,7 @@
  *  videoPoster is buggy on IE9
  *  
  *  simply do...
- *  <script type="text/javascript" src="http://widgets.jpdmi.com/xbrowservideo.js"></script>
+ *  <script type="text/javascript" src="xbrowservideo.js"></script>
  *  <div id="my_video" videoWidth="640" videoHeight="480" videoMp4="/path/to/video.mp4" videoWebm="/path/to/video.webm" videoOgg="/path/to/video.ogg" videoPoster="/path/to/poster.jpg" videoAutoplay="autoplay"><!-- video element will be placed here --></div>
  *  xBrowserVideo('my_video');
  *
